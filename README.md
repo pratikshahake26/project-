@@ -1,2 +1,3 @@
 # PBL-II-project
-Java
+Using Java, MySQL and intellj IDE's.
+
